@@ -13,7 +13,7 @@ Let us take a look at the feedback system:
 
 ![Karplus-Strong-Feedback-System](/public/images/Karplus-Strong-digital-feedback.png)
 
-In the above diagram, we see that the input is taken as it is and added to delayed output signal. The delay unit $$z^{-M}$$ acts as a memory cell, which stores $$M$$ signals before it outputs back the first signal. This unit is a `FIFO`, i.e, the first signal stored in this unit will be the first to be sent out. Then we have the scaling factor $$\alpha$$, which will scale the output of the delay unit. Generally, this would be lesser than to 1, to give the damping effect.
+In the above diagram, we see that the input is taken as it is and added to delayed output signal. The delay unit $$z^{-M}$$ acts as a memory cell, which stores $$M$$ signals before it outputs back the first signal. This unit is a [`FIFO`](https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics)#:~:text=FIFO%20%E2%80%93%20an%20acronym%20for%20first,the%20queue%2C%20is%20processed%20first.){:target="_blank"}, i.e, the first signal stored in this unit will be the first to be sent out. Then we have the scaling factor $$\alpha$$, which will scale the output of the delay unit. Generally, this would be lesser than to 1, to give the damping effect.
 
 Here, we can observe that, to generate periodic signals, we have to set the delay $$M$$ to be equal to the number of samples in the input signal $$x[n]$$.
 
