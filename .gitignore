@@ -42,3 +42,4 @@ node_modules
 
 # Others
 Gemfile.lock
+tmp/*
