@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Karplus-Strong Algorithm to generate notes
+title: Karplus-Strong Algorithm to generate musical notes
 description: Simple digital feedback algorithm to synthesize musical sounds
 tags: maths dsp
 last_modified: 2020-07-30 23:30:00 +0000
