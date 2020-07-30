@@ -2,7 +2,7 @@
 layout: post
 title: Karplus-Strong Algorithm
 description: Simple digital feedback algorithm to synthesize musical sounds
-tags: maths blog
+tags: maths dsp
 last_modified: 2020-07-30 17:30:00 +0000
 ---
 
