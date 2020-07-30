@@ -3,7 +3,7 @@ layout: post
 title: Understanding Jekyll while creating my GitHub Page
 description: Few pointers from setting up a Jekyll Website
 tags: jekyll blog
-last_modified: 2020-07-14 17:30:00 +0000
+last_modified: 2020-07-30 17:30:00 +0000
 ---
 
 ### Tips
@@ -17,3 +17,9 @@ last_modified: 2020-07-14 17:30:00 +0000
     ```
 6. I added google analytics following this [blog](https://curtisvermeeren.github.io/2016/11/18/Jekyll-Google-Analytics.html){:target="_blank"}. One small thing you have to do is, add _\<script\>...\</script\>_ tag in the _analytics.html_ file and then add the code provided in the blog in between these.
 7. Later I added anchors to headers in a post. I have written a [post]({% post_url 2020-07-14-adding-anchors %}) explaining how.
+8. Add MathJax support to include mathematical symbols and equations in your posts by addding the following snippet to *_includes/head.html* before the end tag *</head>*.
+    ```html
+    <script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+    </script>
+    ```
