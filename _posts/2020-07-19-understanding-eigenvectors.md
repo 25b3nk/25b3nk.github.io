@@ -2,7 +2,7 @@
 layout: post
 title: Understanding Eigen Values and Eigen Vectors
 description: Basics of what eigenvectors and eigenvalues are.
-tags: maths blog
+tags: maths
 last_modified: 2020-07-22 17:30:00 +0000
 ---
 
