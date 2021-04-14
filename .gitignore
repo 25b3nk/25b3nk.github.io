@@ -43,3 +43,4 @@ node_modules
 # Others
 Gemfile.lock
 tmp/*
+.jekyll-cache/*
