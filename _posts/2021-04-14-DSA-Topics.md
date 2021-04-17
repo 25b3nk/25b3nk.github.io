@@ -54,7 +54,7 @@ last_modified: 2021-04-14 08:43:00 +0000
 2. Line sweep technique
 
 
-#### References
+### References
 1. [How to improve DSA skills](https://www.hackerearth.com/blog/developers/7-steps-to-improve-your-data-structure-and-algorithm-skills/)
 1. [Top 7 algorithms and data structures](https://www.hackerearth.com/blog/developers/top-7-algorithms-data-structures-every-programmer-know/)
 1. Sites to practice coding:
@@ -64,5 +64,5 @@ last_modified: 2021-04-14 08:43:00 +0000
     1. [HackerEarth](https://www.hackerearth.com/)
     1. [HackerRank](https://www.hackerrank.com/)
 
-#### To-Do
+### To-Do
 1. Setup a git repo with my code solutions and explanations if possible.

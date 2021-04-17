@@ -3,7 +3,7 @@ layout: post
 title: Understanding Eigen Values and Eigen Vectors
 description: Basics of what eigenvectors and eigenvalues are.
 tags: maths
-last_modified: 2020-07-22 17:30:00 +0000
+last_modified: 2021-04-17 17:30:00 +0000
 ---
 
 ## Background
@@ -105,6 +105,11 @@ $$ \left( \begin{array}{c} a & 0 \\ 0 & d \\ \end{array} \right) \left( \begin{a
 
 So, if $$A$$ is a diagonal matrix, $$A^n$$ is simply the diagonal elements raised to the power of $$n$$. Because of this we use eigen decomposition to calculate the diagonal matrix for a given transformation matrix $$M$$. If $$D$$ is the diagonal matrix, then $$M = A D A^{-1}$$, where $$A$$ is the matrix formed by the eigen vectors.
 
-#### References
+### References
 1. [YouTube Video about Eigen Values & Vectors with beautiful representation](https://youtu.be/PFDu9oVAE-g)
-2. [YouTube playlist of wonderful visual representation of linear algebra which includes the above video](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+1. [YouTube playlist of wonderful visual representation of linear algebra which includes the above video](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+### What next ?
+1. [Eigen vectors are used in google search engine to rank pages](https://www.dhruvonmath.com/2019/03/20/pagerank/)
+1. [Blog post with very good explanation about why eigen vectors matter](https://www.dhruvonmath.com/2020/07/26/who-cares-about-eigenvectors/)
+1. [Beautiful visualizations of eigenvectors & eigenvalues](https://setosa.io/ev/eigenvectors-and-eigenvalues/)

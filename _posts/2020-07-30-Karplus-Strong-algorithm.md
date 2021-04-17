@@ -349,7 +349,7 @@ np.sum(y[0:400] - c[0:400])
 
 
 
-#### References
+### References
 1. [Coursera's DSP course](https://www.coursera.org/learn/dsp/home/welcome)
     >
     All the learning is from this above course.
