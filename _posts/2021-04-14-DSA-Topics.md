@@ -63,6 +63,8 @@ last_modified: 2021-04-14 08:43:00 +0000
     1. [LeetCode](https://leetcode.com/)
     1. [HackerEarth](https://www.hackerearth.com/)
     1. [HackerRank](https://www.hackerrank.com/)
+1. [To learn dynamic programming](https://www.geeksforgeeks.org/top-20-dynamic-programming-interview-questions/)
+
 
 ### To-Do
 1. Setup a git repo with my code solutions and explanations if possible.
