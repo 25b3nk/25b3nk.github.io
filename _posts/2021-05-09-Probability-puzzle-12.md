@@ -45,7 +45,9 @@ $$P(E_2) = 1 - ( 0.49^8 + 0.51^8 ) = 0.9920999$$
 
 <br>
 
-Now, that we got probability for a family, we extend this to `50` families.
+$$\text{Now, that we got probability for $\textbf{a}$ family, we extend this to $\textbf{50}$ families.}$$
+
+<br>
 
 $$E_3 \Rightarrow \text{Probability that no family has children of same gender}$$
 
