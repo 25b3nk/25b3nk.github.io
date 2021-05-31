@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Solving a Probability puzzle
+title: Solving a Probability puzzle (Boy or Girl paradox)
 description: List of topics and their references to improve in probability
 tags: maths
 last_modified: 2021-05-09 23:06:00 +0000
