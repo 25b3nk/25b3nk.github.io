@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Probabilty that an email is spam when it contains the word
+title: What is the probabilty that an email is spam when it contains this word ?
 description: List of topics and their references to improve in probability
 tags: maths
 last_modified: 2021-05-31 23:55:00 +0530
