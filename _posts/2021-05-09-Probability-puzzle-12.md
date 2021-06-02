@@ -2,7 +2,7 @@
 layout: post
 title: Solving a Probability puzzle
 description: Solution to one of puzzles based on Boy or Girl paradox
-tags: maths
+tags: maths probability
 last_modified: 2021-05-09 23:06:00 +0000
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Learning Probability
 description: List of topics and their references to improve in probability
-tags: maths
+tags: maths probability
 last_modified: 2021-04-14 10:43:00 +0000
 ---
 

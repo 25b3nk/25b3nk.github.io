@@ -2,7 +2,7 @@
 layout: post
 title: Is this email a SPAM ?
 description: Calculating the probability that an email is spam when it contains this particular word
-tags: maths
+tags: maths probability
 last_modified: 2021-05-31 23:55:00 +0530
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Will it be HEADS ?
 description: Calculating the probability of (n+1)th toss of one of the given coins
-tags: maths
+tags: maths probability
 last_modified: 2021-05-31 23:55:00 +0530
 ---
 
