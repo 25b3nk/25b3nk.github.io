@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What is the probabilty that an email is spam when it contains this word ?
-description: List of topics and their references to improve in probability
+title: Is this email a SPAM ?
+description: Calculating the probability that an email is spam when it contains this particular word
 tags: maths
 last_modified: 2021-05-31 23:55:00 +0530
 ---
@@ -20,7 +20,7 @@ Suppose that an email is checked and found to contain the word "refinance". What
 
 Let's chart down the data we know from the question:
 
-$$S \Rightarrow \text{Probability of spam}$$
+$$S \Rightarrow \text{Event that the email is spam}$$
 
 $$P(S) = 0.5 \implies P(S^c) = 0.5$$
 
@@ -28,17 +28,18 @@ $$P(R) \Rightarrow \text{Probability that email contains the word "refinance"}$$
 
 Given,
 
-$$P(R \cap S) = 1 / 100$$
-$$P(R \cap S^c) = 0.001 / 100$$
+$$P(R \cap S) = \frac{1}{100}$$
+
+$$P(R \cap S^c) = \frac{0.001}{100}$$
 
 So,
 
-$$P(R) = P(R \cap S) + P(R \cap S^c) = 1.001 / 100$$
+$$P(R) = P(R \cap S) + P(R \cap S^c) = \frac{1.001}{100}$$
 
 To find,
 $$P(S|R) \Rightarrow \text{Probability that email is spam given that it contains the word "refinance"}$$
 
-$$P(S|R) = P(S \cap R) / P(R) = (1/100) / (1.001/100) = 1 / 1.001$$
+$$P(S|R) = \frac{P(S \cap R)}{P(R)} = \frac{\frac{1}{100}}{\frac{1.001}{100}} = \frac{1}{1.001}$$
 
 $$\therefore P(S|R) = 0.999000999$$
 
