@@ -3,7 +3,7 @@ layout: post
 title: Will it be HEADS ?
 description: Calculating the probability of (n+1)th toss of one of the given coins
 tags: maths probability
-last_modified: 2021-05-31 23:55:00 +0530
+last_modified: 2021-06-02 23:55:00 +0530
 ---
 
 ## Question
@@ -67,7 +67,7 @@ Now plugging the above values will give,
 
 $$P(B) = \frac{1}{2^n + 1}*\frac{1}{2} + \frac{2^n}{2^n + 1}*1$$
 
-$$P(B) = \frac{2^{n+1} + 1}{2^{n+1} + 2}$$
+$$\boxed{P(B) = \frac{2^{n+1} + 1}{2^{n+1} + 2}}$$
 
 So, the probability $$P(B)$$ tends to $$1$$ as $$n$$ tends to $$\infty$$.
 
